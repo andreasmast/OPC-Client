@@ -1,0 +1,99 @@
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Quickstarts.SortiermaschineClient.Config.xml
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Quickstarts.SortiermaschineClient.exe.config
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Quickstarts.SortiermaschineClient.exe
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Quickstarts.SortiermaschineClient.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\obj\Debug\Sortiermaschine Client.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\obj\Debug\Quickstarts.Boiler.Client.MainForm.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\obj\Debug\Quickstarts.Sortiermaschine.Client.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\obj\Debug\Sortiermaschine Client.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\obj\Debug\Quickstarts.SortiermaschineClient.exe
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Boiler\Sortiermaschine-Client\obj\Debug\Quickstarts.SortiermaschineClient.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschineClient.Config.xml
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe.config
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschine.Client.MainForm.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschineClient.Config.xml
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe.config
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschine.Client.MainForm.resources
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\Andreas Mast\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.SubscribtionOut.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschine.Client.MainForm.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.Properties.Resources.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschineClient.Config.xml
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe.config
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.outputWindow.resources
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschineClient.Config.xml
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe.config
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.outputWindow.resources
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.SubscribtionOut.resources
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschine.Client.MainForm.resources
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.Properties.Resources.resources
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.pdb

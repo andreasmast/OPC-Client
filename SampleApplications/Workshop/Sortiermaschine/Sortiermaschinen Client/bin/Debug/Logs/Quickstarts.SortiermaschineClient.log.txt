@@ -1,0 +1,4 @@
+
+PID:11376 ************************* Logging started at 06/09/2016 21:33:00 *************************
+11376 - 21:33:00.169 Checking application instance certificate.
+11376 - 21:33:00.171 Checking application instance certificate. CN=Quickstart InformationModel Client, DC=DESKTOP-IRQUM94

@@ -1,0 +1,7 @@
+
+PID:9244 ************************* Logging started at 06/01/2016 14:53:18 *************************
+9244 - 14:53:18.960 Checking application instance certificate.
+9244 - 14:53:19.585 Creating application instance certificate. KeySize=0, Lifetime=600
+9244 - 14:53:19.587 Deleting application instance certificate.
+9244 - 14:53:21.709 Adding certificate to trusted peer store. StorePath=%CommonApplicationData%\OPC Foundation\CertificateStores\UA Applications
+9244 - 14:53:21.718 Certificate created. Thumbprint=CBDFBE80EC60E1C9B2404DE50E311EFB4651B846

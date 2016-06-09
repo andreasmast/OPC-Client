@@ -1,0 +1,18 @@
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Quickstarts.BoilerServer.Config.xml
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Quickstarts.BoilerServer.exe.config
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Quickstarts.BoilerServer.exe
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Quickstarts.BoilerServer.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.Server.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.ServerControls.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\bin\Debug\Opc.Ua.Server.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\obj\Debug\Quickstarts.Boiler.Server.Properties.Resources.resources
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\obj\Debug\Boiler Server.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\obj\Debug\Quickstarts.BoilerServer.exe
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\obj\Debug\Quickstarts.BoilerServer.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Workshop\Boiler\Server\obj\Debug\Boiler Server.csprojResolveAssemblyReference.cache

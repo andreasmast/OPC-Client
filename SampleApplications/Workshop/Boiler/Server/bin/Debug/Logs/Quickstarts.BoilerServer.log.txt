@@ -1,0 +1,16 @@
+
+PID:10576 ************************* Logging started at 06/09/2016 21:33:29 *************************
+10576 - 21:33:29.102 Checking application instance certificate.
+10576 - 21:33:29.104 Checking application instance certificate. CN=Quickstart InformationModel Server, DC=DESKTOP-IRQUM94
+10576 - 21:33:29.126 Checking domains in certificate. CN=Quickstart InformationModel Server, DC=DESKTOP-IRQUM94
+10576 - 21:33:29.136 Adding certificate to discovery server trust list.
+10576 - 21:33:29.363 Creating the Node Managers.
+10576 - 21:33:30.749 Token #0 created. CreatedAt = 19:33:30.749 . Lifetime = 3600000
+10576 - 21:33:30.769 SECURE CHANNEL CREATED [TcpClientChannel UA-TCP 1.02.336.0] [ID=10359] Connected To: opc.tcp://localhost:4840/ [None/None/Binary]
+10576 - 21:33:30.771 Token #1 activated. CreatedAt = 19:33:30.749 . Lifetime = 3600000
+10576 - 21:33:30.792 TCPCLIENTCHANNEL SOCKET CLOSED: 00000718, ChannelId=10359
+10576 - 21:33:30.797 Token #0 created. CreatedAt = 19:33:30.797 . Lifetime = 3600000
+10576 - 21:33:30.850 SECURE CHANNEL CREATED [TcpClientChannel UA-TCP 1.02.336.0] [ID=10360] Connected To: opc.tcp://localhost:4840/ [SignAndEncrypt/Basic128Rsa15/Binary] Client Certificate: [CN=Quickstart InformationModel Server, DC=DESKTOP-IRQUM94] [E5FE1974B199A13213E60227942F6B596B3FC5A1] Server Certificate: [DC=DESKTOP-IRQUM94, CN=UA Local Discovery Server, C=US, S=Arizona, L="16101 N. 82nd Street, Scottsdale", O=OPC Foundation] [8FA6AB7FD36393D6382F3C0FD9DC3D0A37D89865]
+10576 - 21:33:30.852 Token #1 activated. CreatedAt = 19:33:30.797 . Lifetime = 3600000
+10576 - 21:33:30.857 TCPCLIENTCHANNEL SOCKET CLOSED: 00000718, ChannelId=10360
+10576 - 21:33:30.858 Register server succeeded. Registering again in 30000 ms

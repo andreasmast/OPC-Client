@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Server.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Server.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Server\obj\Debug\UA Server Library.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Server\obj\Debug\Opc.Ua.Server.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Server\obj\Debug\Opc.Ua.Server.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Server.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Server.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Server\obj\Debug\UA Server Library.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Server\obj\Debug\Opc.Ua.Server.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Server\obj\Debug\Opc.Ua.Server.pdb

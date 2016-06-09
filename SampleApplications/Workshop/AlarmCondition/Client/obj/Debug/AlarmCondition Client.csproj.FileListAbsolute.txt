@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.Config.xml
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.exe.config
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.exe
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.AddCommentDlg.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.AuditEventForm.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.DialogResponseDlg.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.SetAreaFilterDlg.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.ViewEventDetailsDlg.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.MainForm.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.Properties.Resources.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.exe
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.pdb

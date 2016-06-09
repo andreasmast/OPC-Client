@@ -1,0 +1,5 @@
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Client.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Client\obj\Debug\UA Client Library.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Client\obj\Debug\Opc.Ua.Client.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Client\obj\Debug\Opc.Ua.Client.pdb

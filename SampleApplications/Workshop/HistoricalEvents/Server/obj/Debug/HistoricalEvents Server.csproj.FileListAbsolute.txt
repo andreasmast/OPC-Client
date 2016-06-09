@@ -1,0 +1,9 @@
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.Config.xml
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.exe.config
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEvents.Server.Properties.Resources.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.pdb

@@ -1,0 +1,16 @@
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsClient.Config.xml
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsClient.exe.config
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsClient.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsClient.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\HistoricalEvents Client.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.SelectTypeDlg.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.EventListView.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.ReadEventHistoryDlg.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.ModifyFilterDlg.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.MainForm.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.Properties.Resources.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.ViewEventDetailsDlg.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEvents.Client.SetValueDlg.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\HistoricalEvents Client.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEventsClient.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Client\obj\Debug\Quickstarts.HistoricalEventsClient.pdb

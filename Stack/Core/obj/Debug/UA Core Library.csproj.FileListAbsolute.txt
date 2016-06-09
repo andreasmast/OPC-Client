@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\Stack\Core\bin\Debug\Opc.Ua.Core.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\Stack\Core\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\Stack\Core\obj\Debug\UA Core Library.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\Stack\Core\obj\Debug\Opc.Ua.Core.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\Stack\Core\obj\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\Stack\Core\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\Stack\Core\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\Stack\Core\obj\Debug\UA Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\Stack\Core\obj\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\Stack\Core\obj\Debug\Opc.Ua.Core.pdb

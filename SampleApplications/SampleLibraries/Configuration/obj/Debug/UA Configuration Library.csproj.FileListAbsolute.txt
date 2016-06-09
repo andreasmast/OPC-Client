@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\UA Configuration Library.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\Opc.Ua.Configuration.ExceptionDlg.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\UA Configuration Library.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\Opc.Ua.Configuration.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\UA Configuration Library.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\Opc.Ua.Configuration.ExceptionDlg.resources
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\UA Configuration Library.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\Configuration\obj\Debug\Opc.Ua.Configuration.pdb

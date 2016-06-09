@@ -1,0 +1,8 @@
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.MethodsServer.Config.xml
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.MethodsServer.exe.config
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.MethodsServer.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\Quickstarts.MethodsServer.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Server\obj\Debug\Quickstarts.MethodsServer.Properties.Resources.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Server\obj\Debug\Methods Server.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Server\obj\Debug\Quickstarts.MethodsServer.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Server\obj\Debug\Quickstarts.MethodsServer.pdb

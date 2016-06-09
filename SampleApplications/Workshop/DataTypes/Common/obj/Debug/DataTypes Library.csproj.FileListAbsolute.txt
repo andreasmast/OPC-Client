@@ -1,0 +1,4 @@
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\debug\DataTypesLibrary.dll
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\debug\DataTypesLibrary.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\DataTypes\Common\obj\Debug\DataTypesLibrary.dll
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\DataTypes\Common\obj\Debug\DataTypesLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\TestData.xml
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\HistoricalAccessTester.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\bin\Debug\HistoricalAccessTester.pdb
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Quickstarts.MainForm.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Quickstarts.Properties.Resources.resources
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.exe
+C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.pdb

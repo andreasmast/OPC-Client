@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.QuickstartsLibrary.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\bin\Debug\Opc.Ua.QuickstartsLibrary.pdb
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Common\obj\Debug\Quickstart Library.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Common\obj\Debug\Quickstarts.SelectLocaleDlg.resources
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Common\obj\Debug\Quickstart Library.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Common\obj\Debug\Opc.Ua.QuickstartsLibrary.dll
+C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\Common\obj\Debug\Opc.Ua.QuickstartsLibrary.pdb
