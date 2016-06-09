@@ -15,3 +15,6 @@ We strongly encourage community participation and contribution to this project. 
 You must agree to the contributor license agreement before we can accept your changes. The CLA and "I AGREE" button is automatically displayed when you perform the pull request. You can preview CLA [here](https://opcfoundation.org/license/cla/ContributorLicenseAgreementv1.0.pdf).
 
 OPC UA, empowering the Industrial Internet of Things (IIOT) and Industrie 4.0.
+=======
+# OPC-Client
+Hochschule Esslingen OPC UA Client
