@@ -1,0 +1,10 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.PerfTestClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.PerfTestClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.PerfTestClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.PerfTestClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\PerfTest\Client\obj\Debug\PerfTest Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\PerfTest\Client\obj\Debug\Quickstarts.PerfTestClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\PerfTest\Client\obj\Debug\Quickstarts.PerfTestClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\PerfTest\Client\obj\Debug\PerfTest Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\PerfTest\Client\obj\Debug\Quickstarts.PerfTestClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\PerfTest\Client\obj\Debug\Quickstarts.PerfTestClient.pdb

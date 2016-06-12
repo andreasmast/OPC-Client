@@ -7,3 +7,12 @@ C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAcce
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csproj.GenerateResource.Cache
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.exe
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\TestData.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\HistoricalAccessTester.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\HistoricalAccessTester.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Quickstarts.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Quickstarts.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\Aggregate Tester.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Tester\obj\Debug\HistoricalAccessTester.pdb

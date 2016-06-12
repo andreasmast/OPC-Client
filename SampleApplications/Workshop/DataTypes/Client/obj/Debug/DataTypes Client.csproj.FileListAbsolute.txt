@@ -1,0 +1,10 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\debug\Quickstarts.DataTypesClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\debug\DataTypesClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\debug\DataTypesClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\debug\DataTypesClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataTypes\Client\obj\Debug\DataTypes Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataTypes\Client\obj\Debug\Quickstarts.DataTypes.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataTypes\Client\obj\Debug\Quickstarts.DataTypes.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataTypes\Client\obj\Debug\DataTypes Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataTypes\Client\obj\Debug\DataTypesClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataTypes\Client\obj\Debug\DataTypesClient.pdb

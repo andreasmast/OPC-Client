@@ -7,3 +7,12 @@ C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEven
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csproj.GenerateResource.Cache
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.exe
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalEventsServer.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEvents.Server.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\HistoricalEvents Server.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalEvents\Server\obj\Debug\Quickstarts.HistoricalEventsServer.pdb

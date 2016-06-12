@@ -1,0 +1,10 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Reference\Client\obj\Debug\Reference Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Reference\Client\obj\Debug\Reference Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.pdb

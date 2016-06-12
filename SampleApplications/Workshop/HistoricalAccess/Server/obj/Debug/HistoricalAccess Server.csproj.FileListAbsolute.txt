@@ -7,3 +7,12 @@ C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAcce
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\HistoricalAccess Server.csproj.GenerateResource.Cache
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.exe
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalAccessServer.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalAccessServer.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalAccessServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.HistoricalAccessServer.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\HistoricalAccess Server.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\HistoricalAccess Server.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\HistoricalAccess\Server\obj\Debug\Quickstarts.HistoricalAccessServer.pdb

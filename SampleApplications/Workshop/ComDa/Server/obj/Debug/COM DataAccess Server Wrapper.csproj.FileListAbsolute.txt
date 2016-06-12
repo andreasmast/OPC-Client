@@ -1,0 +1,12 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ComDaServerWrapper.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ComDataAccessServerWrapper.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ComDataAccessServerWrapper.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ComDataAccessServerWrapper.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\COM DataAccess Server Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\Quickstarts.ComDataAccessServer.AcceptCertificateDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\Quickstarts.ComDataAccessServer.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\Quickstarts.ComDataAccessServer.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\Quickstarts.ComDataAccessServer.SelectComServerDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\COM DataAccess Server Wrapper.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\Quickstarts.ComDataAccessServerWrapper.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Server\obj\Debug\Quickstarts.ComDataAccessServerWrapper.pdb

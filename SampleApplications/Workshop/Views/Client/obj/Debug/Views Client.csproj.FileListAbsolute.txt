@@ -1,0 +1,9 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ViewsClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ViewsClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ViewsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.ViewsClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Views\Client\obj\Debug\Quickstarts.ViewsClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Views\Client\obj\Debug\Quickstarts.ViewsClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Views\Client\obj\Debug\Views Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Views\Client\obj\Debug\Quickstarts.ViewsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Views\Client\obj\Debug\Quickstarts.ViewsClient.pdb

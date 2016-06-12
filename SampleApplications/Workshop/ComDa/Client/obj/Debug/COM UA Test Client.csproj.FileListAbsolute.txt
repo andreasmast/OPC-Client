@@ -1,0 +1,9 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.UaTestClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.MethodsClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.MethodsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.MethodsClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Client\obj\Debug\Quickstarts.UaTestClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Client\obj\Debug\Quickstarts.MethodsClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Client\obj\Debug\COM UA Test Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Client\obj\Debug\Quickstarts.MethodsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\ComDa\Client\obj\Debug\Quickstarts.MethodsClient.pdb

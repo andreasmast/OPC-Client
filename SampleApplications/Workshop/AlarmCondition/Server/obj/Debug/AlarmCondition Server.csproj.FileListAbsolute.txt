@@ -1,0 +1,9 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionServer.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionServer.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionServer.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Server\obj\Debug\AlarmCondition Server.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Server\obj\Debug\Quickstarts.AlarmConditionServer.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Server\obj\Debug\AlarmCondition Server.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Server\obj\Debug\Quickstarts.AlarmConditionServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Server\obj\Debug\Quickstarts.AlarmConditionServer.pdb

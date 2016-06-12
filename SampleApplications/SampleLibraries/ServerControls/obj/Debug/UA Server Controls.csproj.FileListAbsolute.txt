@@ -18,3 +18,13 @@ C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\Sam
 C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\ServerControls\obj\Debug\UA Server Controls.csproj.GenerateResource.Cache
 C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.ServerControls.dll
 C:\Users\Andreas Mast\Documents\GitHub\opc\UA-.NET-master\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Opc.Ua.ServerControls.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\UA Server Controls.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.Server.Controls.ServerHeaderBranding.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\UA Server Controls.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.ServerControls.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\SampleLibraries\ServerControls\obj\Debug\Opc.Ua.ServerControls.pdb

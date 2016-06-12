@@ -1,0 +1,11 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.DataAccessClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.DataAccessClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.DataAccessClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.DataAccessClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataAccess\Client\obj\Debug\Quickstarts.DataAccessClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataAccess\Client\obj\Debug\Quickstarts.DataAccessClient.ReadHistoryDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataAccess\Client\obj\Debug\Quickstarts.DataAccessClient.WriteValueDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataAccess\Client\obj\Debug\Quickstarts.DataAccessClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataAccess\Client\obj\Debug\DataAccess Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataAccess\Client\obj\Debug\Quickstarts.DataAccessClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DataAccess\Client\obj\Debug\Quickstarts.DataAccessClient.pdb

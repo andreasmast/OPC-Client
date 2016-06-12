@@ -66,11 +66,16 @@ namespace Quickstarts.Sortiermaschine.Client
             this.HelpMI = new System.Windows.Forms.ToolStripMenuItem();
             this.Help_ContentsMI = new System.Windows.Forms.ToolStripMenuItem();
             this.MainPN = new System.Windows.Forms.Panel();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.InputLampLabel1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.InputLamp = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button3 = new System.Windows.Forms.Button();
+            this.SortiermaschineCB = new System.Windows.Forms.ComboBox();
             this.ResetCounter = new System.Windows.Forms.Button();
             this.ResetCounterWaste = new System.Windows.Forms.Button();
             this.DisplayCounter = new System.Windows.Forms.Label();
@@ -84,12 +89,10 @@ namespace Quickstarts.Sortiermaschine.Client
             this.DisplayAirFlowRate = new System.Windows.Forms.Label();
             this.AirFlowRate = new System.Windows.Forms.Label();
             this.SortiermaschineLB = new System.Windows.Forms.Label();
-            this.SortiermaschineCB = new System.Windows.Forms.ComboBox();
             this.ConnectServerCTRL = new Opc.Ua.Client.Controls.ConnectServerCtrl();
             this.StatusBar = new System.Windows.Forms.StatusStrip();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.InputLampLabel1 = new System.Windows.Forms.Label();
             this.MenuBar.SuspendLayout();
             this.MainPN.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -153,6 +156,9 @@ namespace Quickstarts.Sortiermaschine.Client
             // 
             // MainPN
             // 
+            this.MainPN.Controls.Add(this.label4);
+            this.MainPN.Controls.Add(this.label3);
+            this.MainPN.Controls.Add(this.label1);
             this.MainPN.Controls.Add(this.InputLampLabel1);
             this.MainPN.Controls.Add(this.textBox1);
             this.MainPN.Controls.Add(this.InputLamp);
@@ -179,9 +185,45 @@ namespace Quickstarts.Sortiermaschine.Client
             this.MainPN.Size = new System.Drawing.Size(884, 365);
             this.MainPN.TabIndex = 3;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(222, 55);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(37, 13);
+            this.label4.TabIndex = 24;
+            this.label4.Text = "Action";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(114, 55);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(34, 13);
+            this.label3.TabIndex = 23;
+            this.label3.Text = "Value";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 55);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(60, 13);
+            this.label1.TabIndex = 22;
+            this.label1.Text = "Description";
+            // 
+            // InputLampLabel1
+            // 
+            this.InputLampLabel1.AutoSize = true;
+            this.InputLampLabel1.Location = new System.Drawing.Point(308, 210);
+            this.InputLampLabel1.Name = "InputLampLabel1";
+            this.InputLampLabel1.Size = new System.Drawing.Size(89, 13);
+            this.InputLampLabel1.TabIndex = 21;
+            this.InputLampLabel1.Text = "InputLampLabel1";
+            // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(250, 171);
+            this.textBox1.Location = new System.Drawing.Point(544, 211);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(111, 20);
             this.textBox1.TabIndex = 20;
@@ -189,7 +231,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // InputLamp
             // 
             this.InputLamp.AutoSize = true;
-            this.InputLamp.Location = new System.Drawing.Point(12, 178);
+            this.InputLamp.Location = new System.Drawing.Point(12, 214);
             this.InputLamp.Name = "InputLamp";
             this.InputLamp.Size = new System.Drawing.Size(57, 13);
             this.InputLamp.TabIndex = 19;
@@ -198,7 +240,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(125, 178);
+            this.label2.Location = new System.Drawing.Point(125, 214);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(13, 13);
             this.label2.TabIndex = 18;
@@ -206,7 +248,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(144, 171);
+            this.textBox2.Location = new System.Drawing.Point(202, 207);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 16;
@@ -222,9 +264,18 @@ namespace Quickstarts.Sortiermaschine.Client
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // SortiermaschineCB
+            // 
+            this.SortiermaschineCB.FormattingEnabled = true;
+            this.SortiermaschineCB.Location = new System.Drawing.Point(544, 13);
+            this.SortiermaschineCB.Name = "SortiermaschineCB";
+            this.SortiermaschineCB.Size = new System.Drawing.Size(164, 21);
+            this.SortiermaschineCB.TabIndex = 2;
+            this.SortiermaschineCB.SelectedIndexChanged += new System.EventHandler(this.SortiermaschineCB_SelectedIndexChanged);
+            // 
             // ResetCounter
             // 
-            this.ResetCounter.Location = new System.Drawing.Point(144, 125);
+            this.ResetCounter.Location = new System.Drawing.Point(202, 162);
             this.ResetCounter.Name = "ResetCounter";
             this.ResetCounter.Size = new System.Drawing.Size(75, 23);
             this.ResetCounter.TabIndex = 13;
@@ -234,7 +285,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // 
             // ResetCounterWaste
             // 
-            this.ResetCounterWaste.Location = new System.Drawing.Point(144, 105);
+            this.ResetCounterWaste.Location = new System.Drawing.Point(202, 140);
             this.ResetCounterWaste.Name = "ResetCounterWaste";
             this.ResetCounterWaste.Size = new System.Drawing.Size(75, 23);
             this.ResetCounterWaste.TabIndex = 7;
@@ -245,7 +296,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // DisplayCounter
             // 
             this.DisplayCounter.AutoSize = true;
-            this.DisplayCounter.Location = new System.Drawing.Point(125, 130);
+            this.DisplayCounter.Location = new System.Drawing.Point(125, 166);
             this.DisplayCounter.Name = "DisplayCounter";
             this.DisplayCounter.Size = new System.Drawing.Size(13, 13);
             this.DisplayCounter.TabIndex = 12;
@@ -254,7 +305,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // Counter
             // 
             this.Counter.AutoSize = true;
-            this.Counter.Location = new System.Drawing.Point(12, 130);
+            this.Counter.Location = new System.Drawing.Point(12, 166);
             this.Counter.Name = "Counter";
             this.Counter.Size = new System.Drawing.Size(44, 13);
             this.Counter.TabIndex = 11;
@@ -263,7 +314,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // DisplayHookPressure
             // 
             this.DisplayHookPressure.AutoSize = true;
-            this.DisplayHookPressure.Location = new System.Drawing.Point(125, 70);
+            this.DisplayHookPressure.Location = new System.Drawing.Point(125, 106);
             this.DisplayHookPressure.Name = "DisplayHookPressure";
             this.DisplayHookPressure.Size = new System.Drawing.Size(13, 13);
             this.DisplayHookPressure.TabIndex = 10;
@@ -272,7 +323,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // HookPressure
             // 
             this.HookPressure.AutoSize = true;
-            this.HookPressure.Location = new System.Drawing.Point(12, 70);
+            this.HookPressure.Location = new System.Drawing.Point(12, 106);
             this.HookPressure.Name = "HookPressure";
             this.HookPressure.Size = new System.Drawing.Size(77, 13);
             this.HookPressure.TabIndex = 9;
@@ -281,7 +332,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // DisplayCounterWaste
             // 
             this.DisplayCounterWaste.AutoSize = true;
-            this.DisplayCounterWaste.Location = new System.Drawing.Point(125, 110);
+            this.DisplayCounterWaste.Location = new System.Drawing.Point(125, 146);
             this.DisplayCounterWaste.Name = "DisplayCounterWaste";
             this.DisplayCounterWaste.Size = new System.Drawing.Size(13, 13);
             this.DisplayCounterWaste.TabIndex = 8;
@@ -290,7 +341,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // CounterWaste
             // 
             this.CounterWaste.AutoSize = true;
-            this.CounterWaste.Location = new System.Drawing.Point(12, 110);
+            this.CounterWaste.Location = new System.Drawing.Point(12, 146);
             this.CounterWaste.Name = "CounterWaste";
             this.CounterWaste.Size = new System.Drawing.Size(78, 13);
             this.CounterWaste.TabIndex = 7;
@@ -299,7 +350,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // DisplayBoxHeight
             // 
             this.DisplayBoxHeight.AutoSize = true;
-            this.DisplayBoxHeight.Location = new System.Drawing.Point(125, 90);
+            this.DisplayBoxHeight.Location = new System.Drawing.Point(125, 126);
             this.DisplayBoxHeight.Name = "DisplayBoxHeight";
             this.DisplayBoxHeight.Size = new System.Drawing.Size(13, 13);
             this.DisplayBoxHeight.TabIndex = 6;
@@ -308,7 +359,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // BoxHeight
             // 
             this.BoxHeight.AutoSize = true;
-            this.BoxHeight.Location = new System.Drawing.Point(12, 90);
+            this.BoxHeight.Location = new System.Drawing.Point(12, 126);
             this.BoxHeight.Name = "BoxHeight";
             this.BoxHeight.Size = new System.Drawing.Size(57, 13);
             this.BoxHeight.TabIndex = 5;
@@ -317,7 +368,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // DisplayAirFlowRate
             // 
             this.DisplayAirFlowRate.AutoSize = true;
-            this.DisplayAirFlowRate.Location = new System.Drawing.Point(125, 50);
+            this.DisplayAirFlowRate.Location = new System.Drawing.Point(125, 86);
             this.DisplayAirFlowRate.Name = "DisplayAirFlowRate";
             this.DisplayAirFlowRate.Size = new System.Drawing.Size(13, 13);
             this.DisplayAirFlowRate.TabIndex = 4;
@@ -326,7 +377,7 @@ namespace Quickstarts.Sortiermaschine.Client
             // AirFlowRate
             // 
             this.AirFlowRate.AutoSize = true;
-            this.AirFlowRate.Location = new System.Drawing.Point(12, 50);
+            this.AirFlowRate.Location = new System.Drawing.Point(12, 86);
             this.AirFlowRate.Name = "AirFlowRate";
             this.AirFlowRate.Size = new System.Drawing.Size(62, 13);
             this.AirFlowRate.TabIndex = 3;
@@ -340,15 +391,6 @@ namespace Quickstarts.Sortiermaschine.Client
             this.SortiermaschineLB.Size = new System.Drawing.Size(82, 13);
             this.SortiermaschineLB.TabIndex = 1;
             this.SortiermaschineLB.Text = "Sortiermaschine";
-            // 
-            // SortiermaschineCB
-            // 
-            this.SortiermaschineCB.FormattingEnabled = true;
-            this.SortiermaschineCB.Location = new System.Drawing.Point(544, 13);
-            this.SortiermaschineCB.Name = "SortiermaschineCB";
-            this.SortiermaschineCB.Size = new System.Drawing.Size(164, 21);
-            this.SortiermaschineCB.TabIndex = 2;
-            this.SortiermaschineCB.SelectedIndexChanged += new System.EventHandler(this.SortiermaschineCB_SelectedIndexChanged);
             // 
             // ConnectServerCTRL
             // 
@@ -399,15 +441,6 @@ namespace Quickstarts.Sortiermaschine.Client
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "www.hs-esslingen.de";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
-            // 
-            // InputLampLabel1
-            // 
-            this.InputLampLabel1.AutoSize = true;
-            this.InputLampLabel1.Location = new System.Drawing.Point(367, 174);
-            this.InputLampLabel1.Name = "InputLampLabel1";
-            this.InputLampLabel1.Size = new System.Drawing.Size(89, 13);
-            this.InputLampLabel1.TabIndex = 21;
-            this.InputLampLabel1.Text = "InputLampLabel1";
             // 
             // MainForm
             // 
@@ -470,5 +503,8 @@ namespace Quickstarts.Sortiermaschine.Client
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label InputLampLabel1;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label1;
     }
 }

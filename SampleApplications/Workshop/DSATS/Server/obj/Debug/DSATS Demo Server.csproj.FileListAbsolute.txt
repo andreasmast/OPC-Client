@@ -1,0 +1,24 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\DsatsDemoServer.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Schema\DataSource.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\DsatsDemoServer.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\DsatsDemoServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\DsatsDemoServer.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.QuickstartsLibrary.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Server.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.ServerControls.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.ServerControls.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.Server.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\bin\Debug\Opc.Ua.QuickstartsLibrary.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\obj\Debug\DsatsDemoServer.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\obj\Debug\DSATS Demo Server.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\obj\Debug\DsatsDemoServer.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\DSATS\Server\obj\Debug\DsatsDemoServer.pdb

@@ -13,3 +13,18 @@ C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApp
 C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csproj.GenerateResource.Cache
 C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.exe
 C:\Users\andre\Documents\GitHub\UA-other\UA-.NET-master\UA-.NET-master\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.AlarmConditionClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.AddCommentDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.AuditEventForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.DialogResponseDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.SetAreaFilterDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.ViewEventDetailsDlg.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\AlarmCondition Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\AlarmCondition\Client\obj\Debug\Quickstarts.AlarmConditionClient.pdb

@@ -1,0 +1,9 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.EmptyClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.EmptyClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.EmptyClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.EmptyClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Empty\Client\obj\Debug\Quickstarts.EmptyClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Empty\Client\obj\Debug\Quickstarts.EmptyClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Empty\Client\obj\Debug\Empty Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Empty\Client\obj\Debug\Quickstarts.EmptyClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Empty\Client\obj\Debug\Quickstarts.EmptyClient.pdb

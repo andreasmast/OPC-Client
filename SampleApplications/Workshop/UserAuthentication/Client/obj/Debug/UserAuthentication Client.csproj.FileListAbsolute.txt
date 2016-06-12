@@ -1,0 +1,24 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\TestData.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Quickstarts.UserAuthenticationClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Quickstarts.UserAuthenticationClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Quickstarts.UserAuthenticationClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Quickstarts.UserAuthenticationClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\HistoricalAccessTester.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Server.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\HistoricalAccessTester.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\bin\Debug\Opc.Ua.Server.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\obj\Debug\UserAuthentication Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\obj\Debug\UserAuthentication Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\UserAuthentication\Client\obj\Debug\Quickstarts.UserAuthenticationClient.pdb

@@ -386,7 +386,7 @@ namespace Quickstarts.Sortiermaschine.Client
             DisplayCounter.Text = "0";
         }   
 
-      private void button3_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
           /*  if (m_subscription == null)
             {
@@ -470,6 +470,7 @@ namespace Quickstarts.Sortiermaschine.Client
                         break;
                     default:
                         InputLampLabel1.Text = "invalid Input!";
+                        textBox1.BackColor = Color.White;
                         break;
                 }
             }

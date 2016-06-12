@@ -1,0 +1,19 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Quickstarts.BoilerClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Quickstarts.BoilerClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Quickstarts.BoilerClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Quickstarts.BoilerClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\obj\Debug\Boiler Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\obj\Debug\Quickstarts.Boiler.Client.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\obj\Debug\Quickstarts.Boiler.Client.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\obj\Debug\Boiler Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\obj\Debug\Quickstarts.BoilerClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Boiler\Client\obj\Debug\Quickstarts.BoilerClient.pdb

@@ -118,3 +118,24 @@ C:\Users\Andreas Mast\Desktop\test\SampleApplications\Workshop\Sortiermaschine\S
 C:\Users\Andreas Mast\Desktop\test\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csproj.GenerateResource.Cache
 C:\Users\Andreas Mast\Desktop\test\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.exe
 C:\Users\Andreas Mast\Desktop\test\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschineClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Quickstarts.SortiermaschinenClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.outputWindow.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.SubscribtionOut.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschine.Client.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.Sortiermaschinen.Client.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Sortiermaschine Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Sortiermaschine\Sortiermaschinen Client\obj\Debug\Quickstarts.SortiermaschinenClient.pdb

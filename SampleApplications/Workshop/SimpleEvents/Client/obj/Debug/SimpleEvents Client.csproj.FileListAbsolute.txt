@@ -1,0 +1,10 @@
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.SimpleEventsClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.SimpleEventsClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.SimpleEventsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.SimpleEventsClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\SimpleEvents\Client\obj\Debug\SimpleEvents Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\SimpleEvents\Client\obj\Debug\Quickstarts.SimpleEvents.Client.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\SimpleEvents\Client\obj\Debug\Quickstarts.SimpleEvents.Client.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\SimpleEvents\Client\obj\Debug\SimpleEvents Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\SimpleEvents\Client\obj\Debug\Quickstarts.SimpleEventsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\SimpleEvents\Client\obj\Debug\Quickstarts.SimpleEventsClient.pdb

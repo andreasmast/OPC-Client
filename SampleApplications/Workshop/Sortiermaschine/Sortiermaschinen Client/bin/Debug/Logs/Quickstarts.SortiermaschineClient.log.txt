@@ -1,4 +1,4 @@
 
-PID:1180 ************************* Logging started at 06/09/2016 23:15:38 *************************
-1180 - 23:15:38.706 Checking application instance certificate.
-1180 - 23:15:38.708 Checking application instance certificate. CN=Quickstart InformationModel Client, DC=DESKTOP-IRQUM94
+PID:15704 ************************* Logging started at 06/12/2016 20:08:16 *************************
+15704 - 20:08:16.400 Checking application instance certificate.
+15704 - 20:08:16.402 Checking application instance certificate. CN=Quickstart InformationModel Client, DC=DESKTOP-IRQUM94

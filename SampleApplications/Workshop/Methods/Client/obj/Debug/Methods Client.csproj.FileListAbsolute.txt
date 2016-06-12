@@ -8,3 +8,13 @@ C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Client
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Client\obj\Debug\Methods Client.csproj.GenerateResource.Cache
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.exe
 C:\Users\andre\Desktop\UA-.NET-master\SampleApplications\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.MethodsClient.Config.xml
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.MethodsClient.exe.config
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.MethodsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\bin\Debug\Quickstarts.MethodsClient.pdb
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Methods\Client\obj\Debug\Methods Client.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.MainForm.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.Properties.Resources.resources
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Methods\Client\obj\Debug\Methods Client.csproj.GenerateResource.Cache
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.exe
+C:\Users\Andreas Mast\Desktop\OPC Client\SampleApplications\Workshop\Methods\Client\obj\Debug\Quickstarts.MethodsClient.pdb
